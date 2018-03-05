@@ -1,17 +1,17 @@
 {
-  "name": "bitcore-wallet-client",
+  "name": "bitcore-wallet-client-dinero",
   "main": "index.js",
   "version": "2.1.1",
-  "homepage": "https://github.com/bitpay/bitcore-wallet-client",
+  "homepage": "https://github.com/dinerocoin/bitcore-wallet-client-dinero",
   "authors": ["BitPay Inc"],
-  "description": "Client for bitcore-wallet-service",
+  "description": "Client for bitcore-wallet-service-dinero",
   "keywords": [
-    "bitcoin",
-    "copay",
+    "dinero",
+    "copay-dinero",
     "multisig",
     "wallet",
     "client",
-    "bitcore"
+    "bitcore-dinero"
   ],
   "ignore": [
     "**/.*",
